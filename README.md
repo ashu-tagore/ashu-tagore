@@ -9,7 +9,7 @@
 </p>
 
 - 🔭 Currently building: **CNN-Based Network Intrusion Detection System**
-- 🌱 Learning: **Data Science, Modern Frontend**
+- 🌱 Learning: **Data Science, Full Stack Web Development**
 - 👨‍💻 Explore my work: [github.com/ashu-tagore](https://github.com/ashu-tagore)
 - 💬 Open to questions about: **React, GSAP, JavaScript, Python**
 - 📫 Contact: [aswat0thama@gmail.com](mailto:aswat0thama@gmail.com)
