@@ -1,5 +1,5 @@
 # About Me:
-I'm passionate about machine learning, deep learning, and data science, currently working on cutting-edge research in network security at Tribhuvan University. I love building ML models from scratch and exploring the fascinating intersection of AI and real-world applications—from particle physics to network intrusion detection.<br><br>Current Focus: Developing a CNN-based Network Intrusion Detection System (NIDS).
+I'm passionate about machine learning, deep learning, and data science, currently working on cutting-edge research in network security at Tribhuvan University. I love building ML models from scratch and exploring the fascinating intersection of AI and real-world applications—from particle physics to network intrusion detection.<br><br>Current Focus:  Benchmarking multiple resampling methods for imbalanced classification datasets and training a meta-learner to predict which method works best given dataset characteristics.
 
 
 ## Socials:
